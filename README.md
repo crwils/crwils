@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello! 👋 
+
+I'm Craig - a Junior Software Developer from Edinburgh, Scotland.
+
+After four years working as a recruiter in the tech industry in Dubai, I made a career change into tech and in July, graduated from CodeClan in Edinburgh - an accredited Professional Software Development bootcamp teaching the fundamentals of Software Development through over 800 hours coding. 
+
+Over the 16 weeks, I learned how to create full-stack web applications from scratch using various languages, libraries and frameworks including JavaScript, React, React Native, Express, Java, Spring Boot, Python, Flask, HTML, CSS, & SQL.
+
+I encourage you to check out my pinned repos below which are some of the larger projects I did as part of the course! 
+
+If you'd like to connect with me, I'm available on both  <a href="http://www.linkedin.com/in/crwils/"><img height="20px" width="20px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> </a>  and  <a href="http://www.twitter.com/cr_wils"> <img height="20px" width="20px" src="https://image.flaticon.com/icons/png/512/124/124021.png"/> </a>, <b>or</b> you can drop me an <b><a href="mailto:craigwilsonmusic@gmail.com">email</a></b> - I'd love to hear from you!
 
 <!--
 **crwils/crwils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
