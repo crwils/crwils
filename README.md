@@ -2,7 +2,7 @@
 
 I'm Craig - a Junior Software Developer from Edinburgh, Scotland.
 
-After four years working as a recruiter in the tech industry in Dubai, I made a career change into tech and in July, graduated from CodeClan in Edinburgh - an accredited Professional Software Development bootcamp teaching the fundamentals of Software Development through over 800 hours coding. 
+After four years working as a recruiter in the tech industry in Dubai, I made a career change into tech. In July, I graduated from CodeClan in Edinburgh - an accredited Professional Software Development bootcamp teaching the fundamentals of Software Development through over 800 hours coding. 
 
 Over the 16 weeks, I learned how to create full-stack web applications from scratch using various languages, libraries and frameworks including JavaScript, React, React Native, Express, Java, Spring Boot, Python, Flask, HTML, CSS, & SQL.
 
