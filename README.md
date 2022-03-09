@@ -8,7 +8,7 @@ Over the 16 weeks, I learned how to create full-stack web applications from scra
 
 I encourage you to check out my pinned repos below which are some of the larger projects I did as part of the course! 
 
-If you'd like to connect with me, I'm available on both  <a href="http://www.linkedin.com/in/crwils/"><img height="20px" width="20px" src="https://www.socialenterpriseacumen.co.uk/wp-content/uploads/2016/04/Twitter-icon.png"/> </a>  and  <a href="http://www.twitter.com/cr_wils"> <img height="20px" width="20px" src="https://image.flaticon.com/icons/png/512/124/124021.png"/> </a>, <b>or</b> you can drop me an <b><a href="mailto:craigwilsonmusic@gmail.com">email</a></b> - I'd love to hear from you!
+If you'd like to connect with me, I'm available on both  <a href="http://www.linkedin.com/in/crwils/"><img height="20px" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/> </a>  and  <a href="http://www.twitter.com/cr_wils"> <img height="20px" width="20px" src="https://image.flaticon.com/icons/png/512/124/124021.png"/> </a>, <b>or</b> you can drop me an <b><a href="mailto:craigwilsonmusic@gmail.com">email</a></b> - I'd love to hear from you!
 
 <!--
 **crwils/crwils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
