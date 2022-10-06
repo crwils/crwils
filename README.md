@@ -1,14 +1,16 @@
-### Hello! 👋 
+### Hey 👋 
 
 I'm Craig - a Junior Software Developer from Edinburgh, Scotland.
 
-After four years working as a recruiter in the tech industry in Dubai, I made a career change into tech. In July, I graduated from CodeClan in Edinburgh - an SQA accredited Digital Skills Academy teaching the fundamentals of Software Development through over 800 hours coding. 
+After four years working as a tech recruiter in Dubai, I pursued a career change into tech. 
 
-Over the 16 weeks, I learned how to create full-stack web applications from scratch using various languages, libraries, frameworks and databases including JavaScript, React, React Native, Express, Java, Spring Boot, Python, Flask, HTML, CSS, MongoDB & PostgreSQL.
+In July 2021, I graduated from CodeClan in Edinburgh - an SQA accredited Digital Skills Academy teaching the fundamentals of Software Development through over 800 hours coding. Then, in August 2021, I joined Gigged.AI where I currently work, helping to build and launch their brand new talent marketplace. 
 
-I encourage you to check out my pinned repos below which are some of the larger projects I did as part of the course! 
+My main focus right now is on front-end development using React and Typescript with addition of Tailwind, HeadlessUI and MaterialUI.
 
-If you'd like to connect with me, I'm available on both  <a href="http://www.linkedin.com/in/crwils/"><img height="20px" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Linkedin_circle.svg"/> </a>  and  <a href="http://www.twitter.com/cr_wils"> <img height="20px" width="20px" src="https://image.flaticon.com/icons/png/512/124/124021.png"/> </a>, <b>or</b> you can drop me an <b><a href="mailto:craigwilsonmusic@gmail.com">email</a></b> - I'd love to hear from you!
+If you feel drawn to it, you can check out some of my pinned repos below which are a selection of the larger projects I did as part of the CodeClan course. In the near future I plan to update these with some of my more recent, personal projects that I've been working on.
+
+If you'd like to connect with me on LinkedIn, please do: <a href="http://www.linkedin.com/in/crwils/"><img height="20px" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Linkedin_circle.svg"/> </a>.
 
 <!--
 **crwils/crwils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
