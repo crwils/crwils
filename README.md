@@ -1,6 +1,6 @@
 ### Hey 👋 
 
-I'm Craig - a Junior Software Developer from Edinburgh, Scotland.
+I'm Craig - a Front End Developer from Edinburgh, Scotland.
 
 After four years working as a tech recruiter in Dubai, I pursued a career change into tech. 
 
@@ -9,8 +9,6 @@ In July 2021, I graduated from CodeClan in Edinburgh - an SQA accredited Digital
 My main focus right now is on front-end development using React and Typescript with the addition of Tailwind, HeadlessUI and MaterialUI.
 
 If you feel drawn to it, you can check out some of my pinned repos below which are a selection of the larger projects I did as part of the CodeClan course. In the near future I plan to update these with some of my more recent, personal projects that I've been working on.
-
-If you'd like to connect with me on LinkedIn, please do: <a href="http://www.linkedin.com/in/crwils/"><img height="20px" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Linkedin_circle.svg"/> </a>
 
 <!--
 **crwils/crwils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
