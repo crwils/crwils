@@ -1,4 +1,4 @@
-### Hey 👋 
+### Hello 
 
 I'm Craig - a Front End Developer from Edinburgh, Scotland.
 
