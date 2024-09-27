@@ -6,7 +6,7 @@ I was afforded the opportunity to leave behind my old tech recruitment career in
 
 Currently, I work at Glasgow-based start-up/scale-up Gigged.AI, where I help build and maintain our Open & Internal Talent Marketplaces. My primary focus is front-end development using React and TypeScript, though working in a small team means I also get to enjoy occasional forays into .NET and C# for backend development.
 
-I’m always working on new projects and refining my skills, while doing my best to avoid blindly jumping on every shiny new Javascript-related bandwagon that rolls through—though sometimes, resistance is futile. 
+I’m always working on new projects and refining my skills, while doing my best to avoid diving head-first into every shiny new Javascript framework that passes by.
 
 Check out my pinned repositories below for a mix of projects from my time at CodeClan and some recent personal work. More updates coming soon!
 
