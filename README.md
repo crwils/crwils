@@ -2,11 +2,13 @@ Hello Github 🤚🏼
 
 I'm Craig, a Front End Developer based in Edinburgh, UK.
 
-I was afforded the opportunity to leave my old tech recruitment career in Dubai and pivot into software development thanks to a much publicised global pandemic back in late 2020, and never looked back. In July 2021, I graduated from CodeClan's digital skills academy, where I earned an SQA-accredited diploma.
+I was afforded the opportunity to leave behind my old tech recruitment career in Dubai and pivot into software development thanks to a much publicised global pandemic back in late 2020, and haven't looked back since.
 
-Currently, I work at Gigged.AI, where I help build and maintain a cutting-edge talent marketplace. My primary focus is front-end development using React and TypeScript, though working in a small team means I also get to enjoy occasional forays into .NET and C# for backend development.
+Currently, I work at Glasgow-based start-up/scale-up Gigged.AI, where I help build and maintain our Open & Internal Talent Marketplaces. My primary focus is front-end development using React and TypeScript, though working in a small team means I also get to enjoy occasional forays into .NET and C# for backend development.
 
-I’m always working on new projects and refining my skills. Check out my pinned repositories below for a mix of projects from my time at CodeClan and some recent personal work. More updates coming soon!
+I’m always working on new projects and refining my skills, while doing my best to avoid blindly jumping on every shiny new Javascript-related bandwagon that rolls through—though sometimes, resistance is futile. 
+
+Check out my pinned repositories below for a mix of projects from my time at CodeClan and some recent personal work. More updates coming soon!
 
 <!--
 **crwils/crwils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
