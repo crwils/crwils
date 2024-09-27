@@ -1,14 +1,10 @@
-### Hello ✌🏼
+I'm Craig, a Front End Developer based in Edinburgh, UK.
 
-I'm Craig - a Front End Developer from Edinburgh, Scotland.
+After four years living overseas as a tech recruiter in the UAE, I made the switch to software development. In July 2021, I graduated from CodeClan's digital skills academy, where I earned an SQA-accredited diploma.
 
-After four years working as a tech recruiter in Dubai, I pursued a career change into tech. 
+Currently, I work at Gigged.AI, where I help build and maintain a cutting-edge talent marketplace. My primary focus is front-end development using React and TypeScript, though working in a small team means I also get to enjoy occasional forays into .NET and C# for backend development.
 
-In July 2021, I graduated from CodeClan in Edinburgh - an SQA accredited Digital Skills Academy teaching the fundamentals of Software Development through over 800 hours coding. Then, in August 2021, I joined Gigged.AI where I currently work, helping to build and launch their brand new talent marketplace. 
-
-My main focus right now is on front-end development using React and Typescript with the addition of Tailwind, HeadlessUI and MaterialUI.
-
-If you feel drawn to it, you can check out some of my pinned repos below which are a selection of the larger projects I did as part of the CodeClan course. In the near future I plan to update these with some of my more recent, personal projects that I've been working on.
+I’m always working on new projects and refining my skills. Check out my pinned repositories below for a mix of projects from my time at CodeClan and some recent personal work. More updates coming soon!
 
 <!--
 **crwils/crwils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
