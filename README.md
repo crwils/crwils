@@ -2,7 +2,7 @@ Hello Github 🤚🏼
 
 I'm Craig, a Front End Developer based in Edinburgh, UK.
 
-After four years living overseas as a tech recruiter in the UAE, I made the switch to software development. In July 2021, I graduated from CodeClan's digital skills academy, where I earned an SQA-accredited diploma.
+I was afforded the opportunity to leave my old tech recruitment career in Dubai and pivot into software development thanks to a much publicised global pandemic back in late 2020, and never looked back. In July 2021, I graduated from CodeClan's digital skills academy, where I earned an SQA-accredited diploma.
 
 Currently, I work at Gigged.AI, where I help build and maintain a cutting-edge talent marketplace. My primary focus is front-end development using React and TypeScript, though working in a small team means I also get to enjoy occasional forays into .NET and C# for backend development.
 
