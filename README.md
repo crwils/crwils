@@ -1,3 +1,5 @@
+Hello Github 🤚🏼
+
 I'm Craig, a Front End Developer based in Edinburgh, UK.
 
 After four years living overseas as a tech recruiter in the UAE, I made the switch to software development. In July 2021, I graduated from CodeClan's digital skills academy, where I earned an SQA-accredited diploma.
